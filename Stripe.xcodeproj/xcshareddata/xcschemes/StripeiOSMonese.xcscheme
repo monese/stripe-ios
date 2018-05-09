@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "AA9D347E20A333EB00219408"
-               BuildableName = "StripeiOSMonese.framework"
+               BuildableName = "Stripe.framework"
                BlueprintName = "StripeiOSMonese"
                ReferencedContainer = "container:Stripe.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "AA9D347E20A333EB00219408"
-            BuildableName = "StripeiOSMonese.framework"
+            BuildableName = "Stripe.framework"
             BlueprintName = "StripeiOSMonese"
             ReferencedContainer = "container:Stripe.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "AA9D347E20A333EB00219408"
-            BuildableName = "StripeiOSMonese.framework"
+            BuildableName = "Stripe.framework"
             BlueprintName = "StripeiOSMonese"
             ReferencedContainer = "container:Stripe.xcodeproj">
          </BuildableReference>
